@@ -1,0 +1,9 @@
+buat sebuah formulir kasir indomaret 
+parent class Transaksi punya data: (nama barang, harga, jumlah) 
+
+child class:
+barangNormal ->tanpa diskon
+barangDiskon -> ada potongan harga
+
+form input: nama barang, harga satuan, jumlah, diskon(%)  
+output: nama barang, harga satuan, jumlah, diskon, harga total
